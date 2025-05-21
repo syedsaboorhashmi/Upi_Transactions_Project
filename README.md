@@ -59,16 +59,22 @@ Example (INR):
 | ...       | ...        | ...               |
 | October   | 1,691,413  | 8,421,307         |
 
+
 ## 📌 Key Visuals
 
 The Power BI dashboard includes:
-- **Line and Column Charts** for monthly transaction trends
-- **Filters/Slicers** for:
+
+- **Line and Column Charts** for monthly UPI transaction trends
+- **Slicers** for:
   - Bank Sent/Received
   - Device Type
   - Demographics (Gender, Age)
   - Merchant & City
-  - Payment and Transaction Types
+  - Payment Method and Transaction Type
+- **Filters** for:
+  - Currency (INR, USD, EUR, GBP) to analyze transactions in different monetary units
+- **Bookmarks Navigation**: Interactive bookmarks allow users to switch between different chart views (e.g., line vs. column charts), enhancing data exploration.
+- **Synced Slicers Across Pages**: Slicers are synced across report pages to ensure consistent context and seamless navigation.
 
 ## 🎯 Purpose
 
