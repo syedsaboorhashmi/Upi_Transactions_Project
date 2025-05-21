@@ -2,7 +2,7 @@
 
 This project showcases a comprehensive Power BI dashboard analyzing **Unified Payments Interface (UPI)** transactions across different cities, banks, age groups, and more.
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Transactions by Month 
 
@@ -60,7 +60,7 @@ Example (INR):
 | October   | 1,691,413  | 8,421,307         |
 
 
-## 📌 Key Visuals
+##  Key Visuals
 
 The Power BI dashboard includes:
 
