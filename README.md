@@ -4,7 +4,28 @@ This project showcases a comprehensive Power BI dashboard analyzing **Unified Pa
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](images/Upi_Transactions_Proj_1.png)
+### Transactions by Month 
+
+#### Line Chart:
+![Transactions by Month (Line Chart)](images/Upi_Transactions_Proj_1.png)
+
+#### Column Chart:
+![Transactions by Month (Column Chart)](images/Upi_Transactions_Proj_3.png)
+
+### Remaining Balance by Month 
+
+#### Line Chart:
+![Transactions by Month (Line Chart)](images/Upi_Transactions_Proj_4.png)
+
+#### Column Chart:
+![Transactions by Month (Column Chart)](images/Upi_Transactions_Proj_5.png)
+
+#### Line Chart:
+![Transactions by Month (Line Chart)](images/Upi_Transactions_Proj_6.png)
+
+### Matrix Visual
+
+![Matrix Visual](images/Upi_Transactions_Proj_2.png)
 
 ## Project Overview
 
