@@ -2,6 +2,10 @@
 
 This project showcases a comprehensive Power BI dashboard analyzing **Unified Payments Interface (UPI)** transactions across different cities, banks, age groups, and more.
 
+## 📸 Dashboard Preview
+
+![Dashboard Overview](images/Upi_Transactions_Proj_1.png)
+
 ## Project Overview
 
 The report provides insights into:
